@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------
 #   K-Means++ Optimal Data Clustering Algorithm v.0.0.1
 #
-#        C,S = kmeans_pp(N,k)
+#        C,S = compute(N,k)
 #
 #        N - # of observations, k - # of clusters
 #
