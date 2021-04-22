@@ -7,9 +7,11 @@
 #
 #        The worst-case complexity of the K-Means++ procedure:
 #
-#                   
+#                   p = O(k^2ndi + nd)
 #
-#                   An Example: M = 10^3, N = 10^2, p = 2.19 x 1e+6
+#                   An Example: n = 10^2, d = 2, k = 3, i = 3
+#
+#                               p = O(3^2 * 10^2 * 2 * 3 + 10^2 * 2) = O(5400)
 #
 #   GNU Public License (C) 2021 Arthur V. Ratz
 #-----------------------------------------------------------------------------------
