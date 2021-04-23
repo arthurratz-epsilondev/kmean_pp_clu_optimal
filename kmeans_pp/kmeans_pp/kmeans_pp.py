@@ -94,8 +94,8 @@ def compute(X,k):
                 
         if np.shape(C)[0] >= k: break
         
-        # Get the distances |x-c[r]| from each observation 
-        # to the centroid c[r], accross all existing clusters in S
+        # Get the distances |x-c| from the observations 
+        # accross all clusters in S to each of the centroids in C
         cn_ds = np.array([s['d'] for s in S ])
         
         # Compute the index of an observation, for which 
