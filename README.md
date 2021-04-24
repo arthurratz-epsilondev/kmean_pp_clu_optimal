@@ -7,7 +7,7 @@
 
 Perform the clustering of **large-sized** **high-dimensional** datasets using the optimized **K-Means++ Algorithm**. 
 
-Source codes in **Anaconda Python 3.8.x (64-bit)** using the latest **Numpy 1.20.2** and **Scikit-Learn 0.20** libraries, **Microsoft Visual Studio 2019** and **Jupyter Notebook** Python's projects:
+Source codes in **Anaconda Python 3.8.x (64-bit)** using the latest **Numpy 1.20.2** and **Scikit-Learn 0.20** libraries, **Microsoft Visual Studio 2019** and **Jupyter Notebook** (https://anaconda.org/arthurvratz/kmeans_pp_nb/notebook) Python's projects:
 
 ## Usage:
 
